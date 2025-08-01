@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<BlocksExchange version="3.2">
+  <SpatialReferenceSystems>
+    <SRS>
+      <Id>1</Id>
+      <Name>Local Coordinates (m)</Name>
+      <Definition>LOCAL_CS["Local Coordinates (m)",LOCAL_DATUM["Local Datum",0],UNIT["metre",1,AUTHORITY["EPSG","9001"]]]</Definition>
+    </SRS>
+  </SpatialReferenceSystems>
+  <Block>
+    
+  </Block>
+</BlocksExchange>
